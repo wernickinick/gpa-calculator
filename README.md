@@ -1,5 +1,8 @@
 # GPA Calculator (C++)
 
+<img width="429" height="422" alt="Screenshot 2026-03-09 at 10 38 16 PM" src="https://github.com/user-attachments/assets/6aa0f86e-8759-492b-895b-a98868f13496" />
+
+
 ## Author
 
 Nicholas Wernicki
